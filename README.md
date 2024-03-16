@@ -14,6 +14,7 @@ pip install discord.py==1.7.3
 pip install asyncio
 pip install requests
 pip install colorama
+pip install aiohttp
 ```
 
 Создаем приложение по [ссылке](https://discord.com/developers), и в разделе Bot, ставим галочку чтобы создать бота. 
